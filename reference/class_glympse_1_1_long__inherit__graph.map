@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$class_glympse_1_1_common.html" title="Glympse::Common\&lt; ILong \&gt;" alt="" coords="69,161,301,188"/>
+<area shape="rect" href="$struct_glympse_1_1_i_long.html" title="The ILong interface wraps a value of the primitive type long (int64) in an object." alt="" coords="21,84,152,111"/>
+<area shape="rect" href="$struct_glympse_1_1_i_common.html" title="The foundtation for the Glympse API object model." alt="" coords="5,7,168,33"/>
+<area shape="rect" href="$class_glympse_1_1_common_storage.html" title="The purpose of this storage helper is to avoid the need in virtual inheritance in client side code..." alt="" coords="176,84,392,111"/>
+</map>

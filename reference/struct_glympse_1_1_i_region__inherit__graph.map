@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$struct_glympse_1_1_i_lat_lng.html" title="Specifies a single location point (latitude and longitude)." alt="" coords="5,84,149,111"/>
+<area shape="rect" href="$struct_glympse_1_1_i_common.html" title="The foundtation for the Glympse API object model." alt="" coords="91,7,253,33"/>
+<area shape="rect" href="$struct_glympse_1_1_i_comparable.html" title="The IComparable interface is introduced to provide additional mechanizm of content&#45;oriented objects c..." alt="" coords="173,84,360,111"/>
+</map>

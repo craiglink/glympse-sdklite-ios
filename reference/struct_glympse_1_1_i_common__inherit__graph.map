@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" href="$struct_glympse_1_1_i_array.html" title="Provides immutable access to vector (array) container with support for range&#45;based enumeration..." alt="" coords="248,5,421,32"/>
+<area shape="rect" href="$struct_glympse_1_1_i_comparable.html" title="The IComparable interface is introduced to provide additional mechanizm of content&#45;oriented objects c..." alt="" coords="241,56,428,83"/>
+<area shape="rect" href="$struct_glympse_1_1_i_drawable.html" title="Represents bitmap objects on the system." alt="" coords="253,157,416,184"/>
+<area shape="rect" href="$struct_glympse_1_1_i_enumeration.html" title="An object that implements the IEnumeration interface generates a series of elements, one at a time." alt="" coords="220,208,449,235"/>
+<area shape="rect" href="$struct_glympse_1_1_i_handler.html" title="The IHandler interface provides the foundation for inter&#45;thread communications in non thread safe run..." alt="" coords="259,259,411,285"/>
+<area shape="rect" href="$struct_glympse_1_1_i_invite_lite.html" title="Provides interface to observe changes on the outgoing invite." alt="" coords="253,309,416,336"/>
+<area shape="rect" href="$struct_glympse_1_1_i_lat_lng.html" title="Specifies a single location point (latitude and longitude)." alt="" coords="263,107,407,133"/>
+<area shape="rect" href="$struct_glympse_1_1_i_list.html" title="Provides immutable access to list container with support for range&#45;based enumeration." alt="" coords="255,360,415,387"/>
+<area shape="rect" href="$struct_glympse_1_1_i_listener_lite.html" title="The listener interface for receiving Glympse Lite events." alt="" coords="245,411,424,437"/>
+<area shape="rect" href="$struct_glympse_1_1_i_location_listener.html" title="Common interface for receiving updates from location and proximity providers." alt="" coords="227,461,443,488"/>
+<area shape="rect" href="$struct_glympse_1_1_i_location_provider.html" title="Host application implements ILocationProvider to supply Glympse API with location information aquired..." alt="" coords="227,512,443,539"/>
+<area shape="rect" href="$struct_glympse_1_1_i_long.html" title="The ILong interface wraps a value of the primitive type long (int64) in an object." alt="" coords="269,563,400,589"/>
+<area shape="rect" href="$struct_glympse_1_1_i_primitive.html" title="The IPrimitive interface is designed to operate with free form data structures." alt="" coords="256,613,413,640"/>
+<area shape="rect" href="$struct_glympse_1_1_i_proximity_provider.html" title="The IProximityProvider provides standard interface for geo&#45;fencing." alt="" coords="224,664,445,691"/>
+<area shape="rect" href="$struct_glympse_1_1_i_runnable.html" title="Represents a command that can be executed." alt="" coords="252,715,417,741"/>
+<area shape="rect" href="$struct_glympse_1_1_i_string.html" title="An immutable sequence of characters/code units." alt="" coords="265,765,404,792"/>
+<area shape="rect" href="$struct_glympse_1_1_i_string_builder.html" title="A modifiable sequence of characters for use in creating strings." alt="" coords="240,816,429,843"/>
+<area shape="rect" href="$struct_glympse_1_1_i_ticket_lite.html" title="Provides interface to configure and observe ticket object." alt="" coords="252,867,417,893"/>
+<area shape="rect" href="$struct_glympse_1_1_i_location_profile.html" title="A location profile defines the configuration that should be applied to the location provider for one ..." alt="" coords="513,5,716,32"/>
+<area shape="rect" href="$struct_glympse_1_1_i_place.html" title="Specifies a named place and location." alt="" coords="548,56,681,83"/>
+<area shape="rect" href="$struct_glympse_1_1_i_region.html" title="The IRegion interface defines a geographical area that can be tracked." alt="" coords="541,107,688,133"/>
+<area shape="rect" href="$struct_glympse_1_1_i_location.html" title="Specifies a single location point (latitude and longitude) at a given time, with optional altitude..." alt="" coords="536,157,693,184"/>
+<area shape="rect" href="$struct_glympse_1_1_i_glympse_lite.html" title="The main Glympse API interface." alt="" coords="523,411,707,437"/>
+<area shape="rect" href="$class_glympse_1_1_common.html" title="Glympse::Common\&lt; ILong \&gt;" alt="" coords="499,563,731,589"/>
+<area shape="rect" href="$class_glympse_1_1_long.html" title="The wrapper for the primitive type long." alt="" coords="779,563,907,589"/>
+</map>
